@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import './Navbar.css'
+import './Nav.css'
 import {AiOutlineHome, AiOutlineUser, AiOutlineProject} from 'react-icons/ai'
 import {BiBook, BiMessageSquareDetail} from 'react-icons/bi'
 
-const Navbar = () => {
+const Nav = () => {
 const [activeNav, setActiveNav] = useState('#')
 
     return (
@@ -21,4 +21,4 @@ const [activeNav, setActiveNav] = useState('#')
     );
 };
 
-export default Navbar;
+export default Nav;

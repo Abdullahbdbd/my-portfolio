@@ -37,7 +37,7 @@ const About = () => {
                             <small>30+ Completed</small>
                         </article>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis soluta ab, sit recusandae dolores voluptate quidem mollitia magnam nesciunt sequi eos asperiores expedita odit blanditiis.</p>
+                    <p>My name is Md. Abdullah. I am a 23 year old junior Developer from Dhaka, Bangladesh. I am experienced in using HTML, CSS, JavaScript, Bootstrap ExpressJS, ReactJS, and NodeJS to develop efficient and innovative web applications that deliver outstanding user experiences.</p>
                     <a href='#contact' className='btn btn-primary'>Let's Talk</a>
                 </div>
             </div>
